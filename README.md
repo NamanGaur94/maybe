@@ -40,8 +40,9 @@ You'll need:
 If you prefer devcontainer, this project supports it (entirely optional).
 
 Run the following commands after cloning the repo:
-
-```shell
+Hi There!!
+ 
+ ```shell
 cd maybe
 cp .env.example .env
 bundle install
