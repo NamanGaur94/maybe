@@ -25,7 +25,7 @@ As we started digging into the changes that would be required to get the app ful
 We're now building the app in Ruby on Rails. We realize that's a controversial choice, but we believe it's the right one for the project. Rails is a mature, stable, and well-documented framework that's been around for over 20 years built on a language that's been around for over 30 years.
 
 From the start our focus with this is to make it as easy as possible for you to both contribute to and deploy the app, and this move to Rails is a big part of that.
-
+ hi There 
 ## Codebase
 
 The codebase is vanilla [Rails](https://rubyonrails.org/) and [Postgres](https://www.postgresql.org/). Quite a simple setup.
